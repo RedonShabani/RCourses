@@ -1,0 +1,1 @@
+RCourses is a JavaScript-based platform built for companies offering coding and design courses. The project allows businesses to manage their course offerings, student enrollments, and instructor profiles with ease.
